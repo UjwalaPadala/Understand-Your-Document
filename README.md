@@ -1,6 +1,5 @@
-# Adobe Hackathon 2025 – Round 1A
 
-## 🧠 Challenge: PDF Outline Extraction
+## Challenge: PDF Outline Extraction
 
 The task is to extract a structured outline from a PDF file, including:
 
@@ -12,7 +11,7 @@ This solution runs inside a Docker container and processes all PDF files in a gi
 
 ---
 
-## 🚀 How to Build the Docker Image
+## How to Build the Docker Image
 
 Run this command from the root folder:
 
